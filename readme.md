@@ -1,4 +1,4 @@
-<h1 align="left"> Software Development in Test Challenge </h1>
+<h1 align="left"> Test Case Description </h1>
 
 ### Scenario:
 
