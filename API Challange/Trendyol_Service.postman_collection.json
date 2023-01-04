@@ -1,0 +1,368 @@
+{
+	"info": {
+		"_postman_id": "f6c07f6c-a0d6-4d6b-9140-76300b76f72b",
+		"name": "Trendyol_Service",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "18346444"
+	},
+	"item": [
+		{
+			"name": "Sum",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "",
+					"options": {
+						"raw": {
+							"language": "javascript"
+						}
+					}
+				},
+				"url": {
+					"raw": "{{url}}/sum?params=5",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"sum"
+					],
+					"query": [
+						{
+							"key": "params",
+							"value": "5"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Default",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://2e8290c9-c6a7-48f0-9b54-25e9908e80a9.mock.pstmn.io/sum?params=5",
+							"protocol": "https",
+							"host": [
+								"2e8290c9-c6a7-48f0-9b54-25e9908e80a9",
+								"mock",
+								"pstmn",
+								"io"
+							],
+							"path": [
+								"sum"
+							],
+							"query": [
+								{
+									"key": "params",
+									"value": "5"
+								}
+							]
+						}
+					},
+					"code": 200,
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": "result = 15, user=info"
+				}
+			]
+		},
+		{
+			"name": "Add",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "{{url}}/add?params="1,2",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"add"   
+					],
+					"query": [
+						{
+							"key": "params",
+							"value": "1,2"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Default",
+					"originalRequest": {
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://2e8290c9-c6a7-48f0-9b54-25e9908e80a9.mock.pstmn.io/add?params=1,2",
+							"protocol": "https",
+							"host": [
+								"2e8290c9-c6a7-48f0-9b54-25e9908e80a9",
+								"mock",
+								"pstmn",
+								"io"
+							],
+							"path": [
+								"add"
+							],
+							"query": [
+								{
+									"key": "params",
+									"value": "1,2"
+								}
+							]
+						}
+					},
+					"code": 200,
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": "result = 3, user=info"
+				}
+			]
+		},
+		{
+			"name": "Multiplication",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "{{url}}/multiplication?params=3,2,3",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"multiplication"
+					],
+					"query": [
+						{
+							"key": "params",
+							"value": "3,2,3"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Default",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://2e8290c9-c6a7-48f0-9b54-25e9908e80a9.mock.pstmn.io/multiplication?params=3,2,3",
+							"protocol": "https",
+							"host": [
+								"2e8290c9-c6a7-48f0-9b54-25e9908e80a9",
+								"mock",
+								"pstmn",
+								"io"
+							],
+							"path": [
+								"multiplication"
+							],
+							"query": [
+								{
+									"key": "params",
+									"value": "3,2,3"
+								}
+							]
+						}
+					},
+					"code": 200,
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": "result = 18, user=info"
+				}
+			]
+		},
+		{
+			"name": "Division",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": ""
+				},
+				"url": {
+					"raw": "{{url}}/division?params=55,11",
+					"host": [
+						"{{url}}"
+					],
+					"path": [
+						"division"
+					],
+					"query": [
+						{
+							"key": "params",
+							"value": "55,11"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Default",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "https://2e8290c9-c6a7-48f0-9b54-25e9908e80a9.mock.pstmn.io/division?params=55,11",
+							"protocol": "https",
+							"host": [
+								"2e8290c9-c6a7-48f0-9b54-25e9908e80a9",
+								"mock",
+								"pstmn",
+								"io"
+							],
+							"path": [
+								"division"
+							],
+							"query": [
+								{
+									"key": "params",
+									"value": "55,11"
+								}
+							]
+						}
+					},
+					"code": 200,
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": "result = 5, user=info"
+				}
+			]
+		},
+		{
+			"name": "Subtraction",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"url": {
+					"raw": "{{url}subtraction?params=5,6",
+					"host": [
+						"{{url}subtraction"
+					],
+					"query": [
+						{
+							"key": "params",
+							"value": "5,6"
+						}
+					]
+				}
+			},
+			"response": [
+				{
+					"name": "Default Copy",
+					"originalRequest": {
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": ""
+						},
+						"url": {
+							"raw": "{{url}}/division?params=55,11",
+							"host": [
+								"{{url}}"
+							],
+							"path": [
+								"division"
+							],
+							"query": [
+								{
+									"key": "params",
+									"value": "55,11"
+								}
+							]
+						}
+					},
+					"code": 200,
+					"_postman_previewlanguage": null,
+					"header": null,
+					"cookie": [],
+					"body": "result = 5, user=info"
+				}
+			]
+		}
+	],
+	"auth": {
+		"type": "apikey",
+		"apikey": [
+			{
+				"key": "in",
+				"value": "header",
+				"type": "string"
+			},
+			{
+				"key": "key",
+				"value": "Trendyol",
+				"type": "string"
+			},
+			{
+				"key": "value",
+				"value": "PMAK-638e3d8e2f9e261bab088ed1-0c76492c6fa7067c806e3c0d8ec5a3a03c",
+				"type": "string"
+			}
+		]
+	},
+	"event": [
+		{
+			"listen": "prerequest",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		},
+		{
+			"listen": "test",
+			"script": {
+				"type": "text/javascript",
+				"exec": [
+					""
+				]
+			}
+		}
+	],
+	"variable": [
+		{
+			"key": "url",
+			"value": "https://2e8290c9-c6a7-48f0-9b54-25e9908e80a9.mock.pstmn.io"
+		}
+	]
+}

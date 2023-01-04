@@ -1,0 +1,1731 @@
+1670152615676	geckodriver	INFO	Listening on 127.0.0.1:51095
+1670152618688	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51096" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilerzdc2E"
+1670152619069	Marionette	INFO	Marionette enabled
+1670152619075	Marionette	INFO	Listening on port 51107
+Read port: 51107
+WebDriver BiDi listening on ws://127.0.0.1:51096
+1670152619261	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilerzdc2E\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51096/devtools/browser/c10176d6-2ed1-4274-851b-905d3bbc80ed
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670152722506	geckodriver	INFO	Listening on 127.0.0.1:56579
+1670152725551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56580" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilep5fsuG"
+1670152725887	Marionette	INFO	Marionette enabled
+1670152725893	Marionette	INFO	Listening on port 56591
+Read port: 56591
+WebDriver BiDi listening on ws://127.0.0.1:56580
+1670152726055	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilep5fsuG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56580/devtools/browser/10e7d7c3-b109-48d7-ae92-00efe50b5b9a
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+1670152808388	Marionette	INFO	Stopped listening on port 56591
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 13204, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670152847572	geckodriver	INFO	Listening on 127.0.0.1:55879
+1670152850627	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55880" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilenwJiUp"
+1670152850999	Marionette	INFO	Marionette enabled
+1670152851005	Marionette	INFO	Listening on port 55890
+Read port: 55890
+WebDriver BiDi listening on ws://127.0.0.1:55880
+1670152851164	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilenwJiUp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55880/devtools/browser/2f23e2f1-58df-4a6b-87de-0d708053f507
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670152910109	geckodriver	INFO	Listening on 127.0.0.1:63157
+1670152913147	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilemcsDOz"
+1670152913597	Marionette	INFO	Marionette enabled
+1670152913603	Marionette	INFO	Listening on port 63170
+Read port: 63170
+WebDriver BiDi listening on ws://127.0.0.1:63158
+1670152913786	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilemcsDOz\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63158/devtools/browser/e5a07741-7e35-4eaf-9df0-eacfa8c973d3
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670152951934	Marionette	INFO	Stopped listening on port 63170
+1670153173010	geckodriver	INFO	Listening on 127.0.0.1:52915
+1670153176054	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52916" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileK7LWv5"
+1670153176433	Marionette	INFO	Marionette enabled
+1670153176438	Marionette	INFO	Listening on port 52927
+Read port: 52927
+WebDriver BiDi listening on ws://127.0.0.1:52916
+1670153176587	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileK7LWv5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52916/devtools/browser/8e7d14d8-4382-450a-b97b-0ebcf5c9d409
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670153215972	geckodriver	INFO	Listening on 127.0.0.1:64224
+1670153219028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64225" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileZh2pvp"
+1670153219379	Marionette	INFO	Marionette enabled
+1670153219384	Marionette	INFO	Listening on port 64235
+Read port: 64235
+WebDriver BiDi listening on ws://127.0.0.1:64225
+1670153219545	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileZh2pvp\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64225/devtools/browser/976a4812-1e1a-406e-911e-8f8293dce6cb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670153304941	geckodriver	INFO	Listening on 127.0.0.1:64405
+1670153307995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64406" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileECwzYr"
+1670153308373	Marionette	INFO	Marionette enabled
+1670153308380	Marionette	INFO	Listening on port 64418
+Read port: 64418
+WebDriver BiDi listening on ws://127.0.0.1:64406
+1670153308535	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileECwzYr\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64406/devtools/browser/d327b3a1-260a-4d7e-81fa-0f1947afb3b5
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670153433444	geckodriver	INFO	Listening on 127.0.0.1:64188
+1670153436511	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "64189" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilep62pdd"
+1670153436884	Marionette	INFO	Marionette enabled
+1670153436890	Marionette	INFO	Listening on port 64200
+Read port: 64200
+WebDriver BiDi listening on ws://127.0.0.1:64189
+1670153437040	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilep62pdd\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:64189/devtools/browser/caeaca75-ff00-43d5-bfb6-9c6bf0c9559a
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670153512401	geckodriver	INFO	Listening on 127.0.0.1:58283
+1670153515455	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58284" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileMEtFL7"
+1670153515824	Marionette	INFO	Marionette enabled
+1670153515830	Marionette	INFO	Listening on port 58299
+Read port: 58299
+WebDriver BiDi listening on ws://127.0.0.1:58284
+1670153515988	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileMEtFL7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58284/devtools/browser/c54160fb-fa00-4a01-989e-672e3ffe26fc
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670153521032	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670153561997	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/M3JMhzk_3vTF8k0i77EsfxGITEmQ_9Y04x5PTEuqQvc.js line 2 > eval line 7183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670153739202	geckodriver	INFO	Listening on 127.0.0.1:63195
+1670153742254	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63196" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilen9fhlg"
+1670153742633	Marionette	INFO	Marionette enabled
+1670153742638	Marionette	INFO	Listening on port 63208
+Read port: 63208
+WebDriver BiDi listening on ws://127.0.0.1:63196
+1670153742785	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilen9fhlg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63196/devtools/browser/411e3756-af08-43a9-8261-4688a6b9eeeb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670153812986	geckodriver	INFO	Listening on 127.0.0.1:63978
+1670153816040	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63979" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileA8tMW5"
+1670153816412	Marionette	INFO	Marionette enabled
+1670153816418	Marionette	INFO	Listening on port 63990
+Read port: 63990
+WebDriver BiDi listening on ws://127.0.0.1:63979
+1670153816569	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileA8tMW5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63979/devtools/browser/822a66f5-dbaa-4c6c-85e0-0596db5c4a85
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670153900957	geckodriver	INFO	Listening on 127.0.0.1:49856
+1670153904028	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilekfHLWH"
+1670153904398	Marionette	INFO	Marionette enabled
+1670153904405	Marionette	INFO	Listening on port 49867
+Read port: 49867
+WebDriver BiDi listening on ws://127.0.0.1:49857
+1670153904576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilekfHLWH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49857/devtools/browser/c4910215-b1a2-447f-9661-d329db5cce93
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670153911868	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670153964389	geckodriver	INFO	Listening on 127.0.0.1:62226
+1670153967456	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62227" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile3NUEB6"
+1670153968271	Marionette	INFO	Marionette enabled
+1670153968284	Marionette	INFO	Listening on port 62238
+Read port: 62238
+WebDriver BiDi listening on ws://127.0.0.1:62227
+1670153968576	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile3NUEB6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62227/devtools/browser/b89861b0-d71a-4e2a-b037-735f4c265148
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670155057646	geckodriver	INFO	Listening on 127.0.0.1:49464
+1670155060687	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "49465" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileDyD0Gm"
+1670155061017	Marionette	INFO	Marionette enabled
+1670155061023	Marionette	INFO	Listening on port 49476
+WebDriver BiDi listening on ws://127.0.0.1:49465
+Read port: 49476
+1670155061269	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileDyD0Gm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:49465/devtools/browser/090d6893-1182-4b9d-8639-7753f4ff36f8
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+1670223063981	geckodriver	INFO	Listening on 127.0.0.1:54811
+1670223067019	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54812" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileVaYgWe"
+1670223067533	Marionette	INFO	Marionette enabled
+1670223067538	Marionette	INFO	Listening on port 54823
+Read port: 54823
+WebDriver BiDi listening on ws://127.0.0.1:54812
+1670223067743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileVaYgWe\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54812/devtools/browser/a390db84-b9f1-485b-aa6d-fb4fafb0d0b3
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670223434213	geckodriver	INFO	Listening on 127.0.0.1:55197
+1670223437264	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55198" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileg8Ce1k"
+1670223437627	Marionette	INFO	Marionette enabled
+1670223437634	Marionette	INFO	Listening on port 55209
+Read port: 55209
+WebDriver BiDi listening on ws://127.0.0.1:55198
+1670223437797	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileg8Ce1k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55198/devtools/browser/2aeb462d-b5bd-4c06-95a8-82578d1d9d40
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670223508565	geckodriver	INFO	Listening on 127.0.0.1:55363
+1670223511606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55364" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile6gEWrX"
+1670223511924	Marionette	INFO	Marionette enabled
+1670223511929	Marionette	INFO	Listening on port 55376
+Read port: 55376
+WebDriver BiDi listening on ws://127.0.0.1:55364
+1670223512085	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile6gEWrX\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55364/devtools/browser/db76306c-1087-42a8-a2cb-28523b24003c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670223638184	geckodriver	INFO	Listening on 127.0.0.1:55563
+1670223641243	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55564" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileHdpxvQ"
+1670223641570	Marionette	INFO	Marionette enabled
+1670223641575	Marionette	INFO	Listening on port 55576
+Read port: 55576
+WebDriver BiDi listening on ws://127.0.0.1:55564
+1670223641708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileHdpxvQ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55564/devtools/browser/8a033ff6-7b77-4fa9-8c1c-64db186cbcb0
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670223889630	Marionette	INFO	Stopped listening on port 55576
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670223898856	geckodriver	INFO	Listening on 127.0.0.1:55856
+1670223901888	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55857" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile5OWKe9"
+1670223902208	Marionette	INFO	Marionette enabled
+1670223902213	Marionette	INFO	Listening on port 55868
+WebDriver BiDi listening on ws://127.0.0.1:55857
+Read port: 55868
+1670223902455	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile5OWKe9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55857/devtools/browser/cd3d29a5-4ae2-4993-ac07-4cf7fc0876a3
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1670224337838	geckodriver	INFO	Listening on 127.0.0.1:56232
+1670224340906	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56233" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilei1t75j"
+1670224341234	Marionette	INFO	Marionette enabled
+1670224341238	Marionette	INFO	Listening on port 56243
+WebDriver BiDi listening on ws://127.0.0.1:56233
+Read port: 56243
+1670224341393	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilei1t75j\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56233/devtools/browser/3b80dcba-5594-4bc5-84a9-08c849abf2b2
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670224419537	geckodriver	INFO	Listening on 127.0.0.1:56408
+1670224422584	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56409" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileMXVNl7"
+1670224422943	Marionette	INFO	Marionette enabled
+1670224422948	Marionette	INFO	Listening on port 56422
+Read port: 56422
+WebDriver BiDi listening on ws://127.0.0.1:56409
+1670224423094	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileMXVNl7\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56409/devtools/browser/6e2fe968-2a96-489f-8a40-858f2de5e26c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+1670224429757	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670224429758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670224429758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670224429758	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670224477452	geckodriver	INFO	Listening on 127.0.0.1:56552
+1670224480483	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56553" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilef2r7uc"
+1670224480801	Marionette	INFO	Marionette enabled
+1670224480805	Marionette	INFO	Listening on port 56565
+Read port: 56565
+WebDriver BiDi listening on ws://127.0.0.1:56553
+1670224480936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilef2r7uc\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56553/devtools/browser/fc35e144-4654-4935-9a34-fe62eb4a0146
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670224510980	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670224515399	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670225120160	geckodriver	INFO	Listening on 127.0.0.1:55960
+1670225123221	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55961" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile6SUl6f"
+1670225123581	Marionette	INFO	Marionette enabled
+1670225123586	Marionette	INFO	Listening on port 55970
+Read port: 55970
+WebDriver BiDi listening on ws://127.0.0.1:55961
+1670225123729	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile6SUl6f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55961/devtools/browser/466024da-95e3-4d34-be21-aca4b46f87cd
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670225174775	Marionette	INFO	Stopped listening on port 55970
+[Parent 27560, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670225196264	geckodriver	INFO	Listening on 127.0.0.1:56102
+1670225199330	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56103" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileuMsEE1"
+1670225199652	Marionette	INFO	Marionette enabled
+1670225199656	Marionette	INFO	Listening on port 56112
+WebDriver BiDi listening on ws://127.0.0.1:56103
+Read port: 56112
+1670225199887	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileuMsEE1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56103/devtools/browser/45e0d1f8-f0bd-4130-87e1-bd616951c949
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670225227097	Marionette	INFO	Stopped listening on port 56112
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670225282146	geckodriver	INFO	Listening on 127.0.0.1:56247
+1670225285176	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56248" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilewJYKs5"
+1670225285490	Marionette	INFO	Marionette enabled
+1670225285495	Marionette	INFO	Listening on port 56257
+Read port: 56257
+WebDriver BiDi listening on ws://127.0.0.1:56248
+1670225285631	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilewJYKs5\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56248/devtools/browser/4746399b-9c3a-4c75-83c5-8b306abb924e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670225338569	Marionette	INFO	Stopped listening on port 56251670225339213	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56374" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileCjh5XA"
+1670225339552	Marionette	INFO	Marionette enabled
+1670225339557	Marionette	INFO	Listening on port 56387
+WebDriver BiDi listening on ws://127.0.0.1:56374
+Read port: 56387
+1670225339731	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileCjh5XA\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56374/devtools/browser/a258c855-74f6-40fb-836d-01cfea0081fb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670225417769	geckodriver	INFO	Listening on 127.0.0.1:56514
+1670225420806	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56515" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile0R0Yp9"
+1670225421146	Marionette	INFO	Marionette enabled
+1670225421151	Marionette	INFO	Listening on port 56525
+WebDriver BiDi listening on ws://127.0.0.1:56515
+Read port: 56525
+1670225421399	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile0R0Yp9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56515/devtools/browser/914850a0-c685-4eef-8995-180939bb5afb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670225446153	Marionette	INFO	Stopped listening on port 56525
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670225567057	geckodriver	INFO	Listening on 127.0.0.1:56679
+1670225570091	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56680" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilehg02n2"
+1670225570584	Marionette	INFO	Marionette enabled
+1670225570595	Marionette	INFO	Listening on port 56691
+Read port: 56691
+WebDriver BiDi listening on ws://127.0.0.1:56680
+1670225570815	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilehg02n2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56680/devtools/browser/a0d1a118-8459-400c-9d9b-0fe5f1801d3a
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670225587195	Marionette	INFO	Stopped listening on port 56691
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670225610507	geckodriver	INFO	Listening on 127.0.0.1:56819
+1670225613562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56820" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilehhDJ1Q"
+1670225613881	Marionette	INFO	Marionette enabled
+1670225613886	Marionette	INFO	Listening on port 56831
+WebDriver BiDi listening on ws://127.0.0.1:56820
+Read port: 56831
+1670225614180	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilehhDJ1Q\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56820/devtools/browser/22574800-2f8a-48c0-81e7-125974073ae4
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670225649568	geckodriver	INFO	Listening on 127.0.0.1:56949
+1670225652601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56950" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile0y4KaG"
+1670225652923	Marionette	INFO	Marionette enabled
+1670225652928	Marionette	INFO	Listening on port 56959
+Read port: 56959
+WebDriver BiDi listening on ws://127.0.0.1:56950
+1670225653084	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile0y4KaG\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56950/devtools/browser/a89ce602-4d2f-4312-9ec9-d56753033123
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670225679125	Marionette	INFO	Stopped listening on port 56959
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670225945378	geckodriver	INFO	Listening on 127.0.0.1:57512
+1670225948406	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57513" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileFYZTy6"
+1670225948733	Marionette	INFO	Marionette enabled
+1670225948737	Marionette	INFO	Listening on port 57524
+WebDriver BiDi listening on ws://127.0.0.1:57513
+Read port: 57524
+1670225948984	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileFYZTy6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57513/devtools/browser/853ae4d1-a400-4304-be95-8c660d2f8546
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1670226024142	geckodriver	INFO	Listening on 127.0.0.1:58456
+1670226027200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58457" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilewlIVJs"
+1670226027639	Marionette	INFO	Marionette enabled
+1670226027645	Marionette	INFO	Listening on port 58469
+Read port: 58469
+WebDriver BiDi listening on ws://127.0.0.1:58457
+1670226027814	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilewlIVJs\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58457/devtools/browser/6c3cf618-48d8-42ef-807a-35d4a503e0b7
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670226076320	Marionette	INFO	Stopped listening on port 58469
+[Parent 26784, IPC I/O Parent] WARNING: DuplicateHandle failed for handle 0 in TransferHandles: file /builds/worker/checkouts/gecko/ipc/chromium/src/chrome/common/ipc_channel_win.cc:746
+1670226126963	geckodriver	INFO	Listening on 127.0.0.1:61808
+1670226130015	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61809" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileW87LMJ"
+1670226130334	Marionette	INFO	Marionette enabled
+1670226130339	Marionette	INFO	Listening on port 61819
+Read port: 61819
+WebDriver BiDi listening on ws://127.0.0.1:61809
+1670226130475	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileW87LMJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61809/devtools/browser/7a117521-64b6-494d-acc9-56d8ab60a6d8
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670226222701	geckodriver	INFO	Listening on 127.0.0.1:61941
+1670226225746	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61942" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileXU7tby"
+1670226226166	Marionette	INFO	Marionette enabled
+1670226226172	Marionette	INFO	Listening on port 61951
+Read port: 61951
+WebDriver BiDi listening on ws://127.0.0.1:61942
+1670226226350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileXU7tby\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61942/devtools/browser/82b6f479-519e-42f9-a869-a434c36a2857
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:775:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:656:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1037:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:577:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:686:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1037, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1037))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:356:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670226282013	Marionette	INFO	Stopped listening on port 61951
+1670226295812	geckodriver	INFO	Listening on 127.0.0.1:57073
+1670226298875	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57074" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileQInffL"
+1670226299217	Marionette	INFO	Marionette enabled
+1670226299222	Marionette	INFO	Listening on port 57083
+WebDriver BiDi listening on ws://127.0.0.1:57074
+Read port: 57083
+1670226299460	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileQInffL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57074/devtools/browser/7d12b491-d50d-4971-a8b6-106fba1497f8
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670226334347	Marionette	INFO	Stopped listening on port 57083
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 15016, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670226367332	geckodriver	INFO	Listening on 127.0.0.1:58658
+1670226370367	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58659" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileYKJ3pg"
+1670226370723	Marionette	INFO	Marionette enabled
+1670226370729	Marionette	INFO	Listening on port 58679
+Read port: 58679
+WebDriver BiDi listening on ws://127.0.0.1:58659
+1670226370884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileYKJ3pg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58659/devtools/browser/0f28b3a0-f792-46c8-b2b6-1e6a57d4ac5c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670226421069	geckodriver	INFO	Listening on 127.0.0.1:61419
+1670226424127	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61420" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile5AdbtF"
+1670226424446	Marionette	INFO	Marionette enabled
+1670226424451	Marionette	INFO	Listening on port 61431
+Read port: 61431
+WebDriver BiDi listening on ws://127.0.0.1:61420
+1670226424583	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile5AdbtF\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61420/devtools/browser/1c63c685-c228-489a-8b7d-70f2559b2e85
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670226449813	Marionette	INFO	Stopped listening on port 61431
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 20516, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670226492803	geckodriver	INFO	Listening on 127.0.0.1:54157
+1670226495834	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54158" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilegCyM74"
+1670226496177	Marionette	INFO	Marionette enabled
+1670226496182	Marionette	INFO	Listening on port 54170
+Read port: 54170
+WebDriver BiDi listening on ws://127.0.0.1:54158
+1670226496349	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilegCyM74\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54158/devtools/browser/f1eb9746-ab1f-4ec0-aa78-890a6e9c864c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670226527337	geckodriver	INFO	Listening on 127.0.0.1:62026
+1670226530391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62027" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileJYifOx"
+1670226530753	Marionette	INFO	Marionette enabled
+1670226530757	Marionette	INFO	Listening on port 62037
+Read port: 62037
+WebDriver BiDi listening on ws://127.0.0.1:62027
+1670226530925	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileJYifOx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62027/devtools/browser/a532a652-e97a-4284-ab3f-6fc5f76669ff
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+1670226563617	Marionette	INFO	Stopped listening on port 62037
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+[Parent 22996, IPC I/O Parent] WARNING: file /builds/worker/checkouts/gecko/ipc/chromium/src/base/process_util_win.cc:167
+1670226588602	geckodriver	INFO	Listening on 127.0.0.1:62117
+1670226591666	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62118" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilexVRmMW"
+1670226592056	Marionette	INFO	Marionette enabled
+1670226592061	Marionette	INFO	Listening on port 62149
+Read port: 62149
+WebDriver BiDi listening on ws://127.0.0.1:62118
+1670226592229	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilexVRmMW\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62118/devtools/browser/25c8e70c-b0c8-4d8b-8e41-f9fed2ef8cbd
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: , line 0: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670226842684	Marionette	INFO	Stopped listening on port 62149
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670226906891	geckodriver	INFO	Listening on 127.0.0.1:53726
+1670226909947	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53727" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile3QCA86"
+1670226910475	Marionette	INFO	Marionette enabled
+1670226910485	Marionette	INFO	Listening on port 53759
+Read port: 53759
+WebDriver BiDi listening on ws://127.0.0.1:53727
+1670226910664	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile3QCA86\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53727/devtools/browser/e97f4ad2-0fcc-45fa-b679-5cd5a3671046
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670226962510	geckodriver	INFO	Listening on 127.0.0.1:51430
+1670226965551	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51431" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileGFaMxY"
+1670226965878	Marionette	INFO	Marionette enabled
+1670226965883	Marionette	INFO	Listening on port 51440
+Read port: 51440
+WebDriver BiDi listening on ws://127.0.0.1:51431
+1670226966016	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileGFaMxY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51431/devtools/browser/89d6da1e-cc3a-487d-bad9-4b00a9fac2d1
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource:///modules/UrlbarUtils.sys.mjs, line 823: NS_ERROR_ILLEGAL_VALUE: Component returned failure code: 0x80070057 (NS_ERROR_ILLEGAL_VALUE) [nsIEffectiveTLDService.getKnownPublicSuffixFromHost]
+1670227284814	geckodriver	INFO	Listening on 127.0.0.1:65493
+1670227287880	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "65494" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileyHc240"
+1670227288228	Marionette	INFO	Marionette enabled
+1670227288235	Marionette	INFO	Listening on port 65506
+Read port: 65506
+WebDriver BiDi listening on ws://127.0.0.1:65494
+1670227288387	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileyHc240\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:65494/devtools/browser/2f3c04a4-f223-47a1-b58d-24a61058d69f
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670227388926	geckodriver	INFO	Listening on 127.0.0.1:60652
+1670227391967	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60653" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileu2w0dR"
+1670227392296	Marionette	INFO	Marionette enabled
+1670227392300	Marionette	INFO	Listening on port 60664
+Read port: 60664
+WebDriver BiDi listening on ws://127.0.0.1:60653
+1670227392434	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileu2w0dR\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60653/devtools/browser/3c2a64bc-f6c5-405f-b25b-595b8fa2facc
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670227413273	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670227436695	geckodriver	INFO	Listening on 127.0.0.1:50333
+1670227439770	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50334" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilecNY8RH"
+1670227440126	Marionette	INFO	Marionette enabled
+1670227440132	Marionette	INFO	Listening on port 50343
+Read port: 50343
+WebDriver BiDi listening on ws://127.0.0.1:50334
+1670227440266	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilecNY8RH\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50334/devtools/browser/d12bc9e7-c536-4d64-a2c1-5fb0d976c9d5
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670227460258	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+1670227956143	geckodriver	INFO	Listening on 127.0.0.1:63011
+1670227959182	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63012" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileAD63IE"
+1670227959522	Marionette	INFO	Marionette enabled
+1670227959530	Marionette	INFO	Listening on port 63021
+Read port: 63021
+WebDriver BiDi listening on ws://127.0.0.1:63012
+1670227959676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileAD63IE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63012/devtools/browser/7b3aeb3e-0c7c-4582-ab1b-56a3f4f505c7
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670228149862	Marionette	INFO	Stopped listening on port 63021
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+remote-debugging-port" "62163" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileBHruUT"
+1670228010119	Marionette	INFO	Marionette enabled
+1670228010127	Marionette	INFO	Listening on port 62184
+Read port: 62184
+WebDriver BiDi listening on ws://127.0.0.1:62163
+1670228010311	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileBHruUT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62163/devtools/browser/dbd4861b-48dd-4a7b-85b1-da3c52201d9d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670228078872	geckodriver	INFO	Listening on 127.0.0.1:62315
+1670228081925	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileJErc9b"
+1670228082337	Marionette	INFO	Marionette enabled
+1670228082344	Marionette	INFO	Listening on port 62334
+Read port: 62334
+WebDriver BiDi listening on ws://127.0.0.1:62316
+1670228082557	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileJErc9b\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62316/devtools/browser/9668e3c0-b60e-4507-89a4-f8d882e8499e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228125070	Marionette	INFO	Stopped listening on port 62334
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670228146342	geckodriver	INFO	Listening on 127.0.0.1:62454
+1670228149419	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62455" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilec9i6jl"
+1670228149964	Marionette	INFO	Marionette enabled
+1670228149977	Marionette	INFO	Listening on port 62470
+Read port: 62470
+WebDriver BiDi listening on ws://127.0.0.1:62455
+1670228150231	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilec9i6jl\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62455/devtools/browser/52d23377-b9ba-4c02-af0e-f8015bda350f
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228172365	Marionette	INFO	Stopped listening on port 62470
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670228177661	geckodriver	INFO	Listening on 127.0.0.1:62590
+1670228180717	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62591" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileOi7ZMy"
+1670228181046	Marionette	INFO	Marionette enabled
+1670228181051	Marionette	INFO	Listening on port 62600
+WebDriver BiDi listening on ws://127.0.0.1:62591
+Read port: 62600
+1670228181295	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileOi7ZMy\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62591/devtools/browser/aba5e256-a961-4db8-aa70-c956fa400f84
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670228248848	Marionette	INFO	Stopped listening on port 62600
+1670228324101	geckodriver	INFO	Listening on 127.0.0.1:62769
+1670228327140	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62770" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile0Y5IAo"
+1670228327506	Marionette	INFO	Marionette enabled
+1670228327511	Marionette	INFO	Listening on port 62779
+Read port: 62779
+WebDriver BiDi listening on ws://127.0.0.1:62770
+1670228327654	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile0Y5IAo\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62770/devtools/browser/fb09bbe7-caef-4851-a9a2-fbd9aa2bc44f
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670228538358	geckodriver	INFO	Listening on 127.0.0.1:62970
+1670228541397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "62971" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileQRwWsu"
+1670228541724	Marionette	INFO	Marionette enabled
+1670228541729	Marionette	INFO	Listening on port 62981
+Read port: 62981
+WebDriver BiDi listening on ws://127.0.0.1:62971
+1670228541884	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileQRwWsu\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:62971/devtools/browser/19aceff7-8d7b-46f4-b787-7fe885fe4d7e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228585170	geckodriver	INFO	Listening on 127.0.0.1:51133
+1670228588197	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51134" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileF1NieT"
+1670228588521	Marionette	INFO	Marionette enabled
+1670228588527	Marionette	INFO	Listening on port 51143
+Read port: 51143
+WebDriver BiDi listening on ws://127.0.0.1:51134
+1670228588685	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileF1NieT\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51134/devtools/browser/7143878f-b547-43c5-ab4c-7a8d2d1a6900
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228642519	geckodriver	INFO	Listening on 127.0.0.1:51267
+1670228645556	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51268" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileyUgl3w"
+1670228645954	Marionette	INFO	Marionette enabled
+1670228645961	Marionette	INFO	Listening on port 51277
+Read port: 51277
+WebDriver BiDi listening on ws://127.0.0.1:51268
+1670228646151	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileyUgl3w\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51268/devtools/browser/9da23931-1b36-418a-914f-b66c2a22ced4
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228676194	geckodriver	INFO	Listening on 127.0.0.1:51389
+1670228679279	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51390" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileexp06J"
+1670228679599	Marionette	INFO	Marionette enabled
+1670228679603	Marionette	INFO	Listening on port 51401
+Read port: 51401
+WebDriver BiDi listening on ws://127.0.0.1:51390
+1670228679738	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileexp06J\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51390/devtools/browser/3d575d46-620f-4ea7-ac44-611bd7c0e5e4
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:775:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:656:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1037:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:577:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:686:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1037, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1037))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:356:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+1670228738494	geckodriver	INFO	Listening on 127.0.0.1:60980
+1670228741555	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60981" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileDsEfsY"
+1670228741913	Marionette	INFO	Marionette enabled
+1670228741918	Marionette	INFO	Listening on port 60990
+Read port: 60990
+WebDriver BiDi listening on ws://127.0.0.1:60981
+1670228742066	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileDsEfsY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:60981/devtools/browser/05243028-c66b-4d03-b200-d8fc3eb05ade
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228778417	geckodriver	INFO	Listening on 127.0.0.1:61110
+1670228781466	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61111" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileTvS97k"
+1670228781866	Marionette	INFO	Marionette enabled
+1670228781871	Marionette	INFO	Listening on port 61121
+Read port: 61121
+WebDriver BiDi listening on ws://127.0.0.1:61111
+1670228782015	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileTvS97k\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61111/devtools/browser/d92b4cb9-7079-4dfb-ba3e-3d7e0a289c7d
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228805934	geckodriver	INFO	Listening on 127.0.0.1:61233
+1670228808995	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61234" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileCUW825"
+1670228809315	Marionette	INFO	Marionette enabled
+1670228809321	Marionette	INFO	Listening on port 61245
+Read port: 61245
+WebDriver BiDi listening on ws://127.0.0.1:61234
+1670228809462	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileCUW825\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61234/devtools/browser/58cc4d99-4aef-444e-a447-7b1c12917471
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670228827424	geckodriver	INFO	Listening on 127.0.0.1:61352
+1670228830475	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "61353" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileUdkRVg"
+1670228830823	Marionette	INFO	Marionette enabled
+1670228830828	Marionette	INFO	Listening on port 61362
+Read port: 61362
+WebDriver BiDi listening on ws://127.0.0.1:61353
+1670228830996	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileUdkRVg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:61353/devtools/browser/04518794-e377-416e-a0ff-7a319f4f7f25
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.error: (new TypeError("container.node.targetFront is null", "resource://devtools/client/inspector/markup/markup.js", 2353))
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670229087129	Marionette	INFO	Stopped listening on port 61362
+ 0)))
+DevTools listening on ws://127.0.0.1:61519/devtools/browser/84175c73-1d38-4ae4-8903-693b0f5bb68b
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670229016320	Marionette	INFO	Stopped listening on port 61528
+1670229033285	geckodriver	INFO	Listening on 127.0.0.1:54275
+1670229036364	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54276" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileh17tp6"
+1670229036686	Marionette	INFO	Marionette enabled
+1670229036691	Marionette	INFO	Listening on port 54285
+WebDriver BiDi listening on ws://127.0.0.1:54276
+Read port: 54285
+1670229036936	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileh17tp6\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54276/devtools/browser/0b4a0731-8d7d-430b-8f2d-612233c6fb3c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670229068667	Marionette	INFO	Stopped listening on port 54285
+1670229085478	geckodriver	INFO	Listening on 127.0.0.1:51536
+1670229088500	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51537" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileFypyfb"
+1670229088836	Marionette	INFO	Marionette enabled
+1670229088841	Marionette	INFO	Listening on port 51549
+Read port: 51549
+WebDriver BiDi listening on ws://127.0.0.1:51537
+1670229088994	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileFypyfb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51537/devtools/browser/ef3ea59f-9867-462c-9571-617a583262de
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670229168593	Marionette	INFO	Stopped listening on port 51549
+1670229185502	geckodriver	INFO	Listening on 127.0.0.1:51686
+1670229188567	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51687" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileKddSPL"
+1670229188893	Marionette	INFO	Marionette enabled
+1670229188897	Marionette	INFO	Listening on port 51698
+Read port: 51698
+WebDriver BiDi listening on ws://127.0.0.1:51687
+1670229189048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileKddSPL\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51687/devtools/browser/0fc300fa-4e57-40d4-8aa2-0d8481326933
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670229387106	geckodriver	INFO	Listening on 127.0.0.1:51917
+1670229390157	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "51918" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile3GcIje"
+1670229390521	Marionette	INFO	Marionette enabled
+1670229390526	Marionette	INFO	Listening on port 51929
+Read port: 51929
+WebDriver BiDi listening on ws://127.0.0.1:51918
+1670229390676	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile3GcIje\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:51918/devtools/browser/5c4f150c-86d3-499d-a87b-592e666bdf28
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670229459387	geckodriver	INFO	Listening on 127.0.0.1:52057
+1670229462436	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52058" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileXcmMTm"
+1670229462786	Marionette	INFO	Marionette enabled
+1670229462790	Marionette	INFO	Listening on port 52067
+Read port: 52067
+WebDriver BiDi listening on ws://127.0.0.1:52058
+1670229462961	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileXcmMTm\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52058/devtools/browser/cbf07aa6-d2da-4ab2-a6c6-ed3355dbd042
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670229507161	geckodriver	INFO	Listening on 127.0.0.1:52179
+1670229510205	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52180" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileWSJxLx"
+1670229510541	Marionette	INFO	Marionette enabled
+1670229510545	Marionette	INFO	Listening on port 52191
+Read port: 52191
+WebDriver BiDi listening on ws://127.0.0.1:52180
+1670229510679	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileWSJxLx\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52180/devtools/browser/bab78fb5-86b0-46c3-bd88-c4d1d6453f7a
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670229543094	Marionette	INFO	Stopped listening on port 52191
+1670229556163	geckodriver	INFO	Listening on 127.0.0.1:52315
+1670229559229	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52316" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile5GC5lt"
+1670229559561	Marionette	INFO	Marionette enabled
+1670229559566	Marionette	INFO	Listening on port 52325
+Read port: 52325
+WebDriver BiDi listening on ws://127.0.0.1:52316
+1670229559725	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile5GC5lt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52316/devtools/browser/4b79db9f-5cc4-49b0-869c-7713abca0560
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670229633892	geckodriver	INFO	Listening on 127.0.0.1:52457
+1670229636952	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52458" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilez4iQKE"
+1670229637306	Marionette	INFO	Marionette enabled
+1670229637311	Marionette	INFO	Listening on port 52469
+Read port: 52469
+WebDriver BiDi listening on ws://127.0.0.1:52458
+1670229637536	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilez4iQKE\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52458/devtools/browser/a14c1d1c-c9ac-4d8d-b6f5-d58c2a0e01df
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+SourceActor threw an exception: [Exception... "Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]"  nsresult: "0x80470002 (NS_BASE_STREAM_CLOSED)"  location: "JS frame :: resource://devtools/shared/DevToolsUtils.js :: onResponse :: line 571"  data: no]
+Stack: onResponse@resource://devtools/shared/DevToolsUtils.js:571:34
+onStopRequest@resource://gre/modules/NetUtil.jsm:126:18
+Line: 571, column: 0
+console.error: ({})
+JavaScript error: resource://devtools/shared/DevToolsUtils.js, line 571: NS_BASE_STREAM_CLOSED: Component returned failure code: 0x80470002 (NS_BASE_STREAM_CLOSED) [nsIInputStream.available]
+1670229769946	geckodriver	INFO	Listening on 127.0.0.1:52612
+1670229772993	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52613" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilemxAbjg"
+1670229773385	Marionette	INFO	Marionette enabled
+1670229773390	Marionette	INFO	Listening on port 52624
+Read port: 52624
+WebDriver BiDi listening on ws://127.0.0.1:52613
+1670229773574	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilemxAbjg\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52613/devtools/browser/91355fe8-1870-4a77-b914-7c233564e3b8
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://js-agent.newrelic.com/nr-spa-1216.min.js, line 2: TypeError: n is undefined
+1670229857301	geckodriver	INFO	Listening on 127.0.0.1:56033
+1670229860372	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56034" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile1aLO4f"
+1670229860690	Marionette	INFO	Marionette enabled
+1670229860695	Marionette	INFO	Listening on port 56043
+WebDriver BiDi listening on ws://127.0.0.1:56034
+Read port: 56043
+1670229860985	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile1aLO4f\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56034/devtools/browser/fddd7d7d-d75b-4c56-9350-b1e88c44463b
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670229900566	geckodriver	INFO	Listening on 127.0.0.1:56163
+1670229903607	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56164" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileUlYVp1"
+1670229903934	Marionette	INFO	Marionette enabled
+1670229903938	Marionette	INFO	Listening on port 56173
+WebDriver BiDi listening on ws://127.0.0.1:56164
+Read port: 56173
+1670229904174	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileUlYVp1\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56164/devtools/browser/5c2df7af-ce74-4c42-8fcc-a5c9fc30ead7
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+1670229915460	Marionette	INFO	Stopped listening on port 56173
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670229945330	geckodriver	INFO	Listening on 127.0.0.1:59071
+1670229948397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "59072" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilekz1tl2"
+1670229948756	Marionette	INFO	Marionette enabled
+1670229948762	Marionette	INFO	Listening on port 59081
+Read port: 59081
+WebDriver BiDi listening on ws://127.0.0.1:59072
+1670229948897	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilekz1tl2\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:59072/devtools/browser/f44942ca-e194-4297-924a-60116b0f3d58
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670230107425	geckodriver	INFO	Listening on 127.0.0.1:57805
+1670230110471	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57806" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileQ715nY"
+1670230110803	Marionette	INFO	Marionette enabled
+1670230110808	Marionette	INFO	Listening on port 57815
+Read port: 57815
+WebDriver BiDi listening on ws://127.0.0.1:57806
+1670230110960	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileQ715nY\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57806/devtools/browser/0f961c8e-3213-4bb3-b39a-bd9b3a5e40a9
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+1670230115581	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1670230771763	geckodriver	INFO	Listening on 127.0.0.1:63340
+1670230774805	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63341" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilePXhHSi"
+1670230775130	Marionette	INFO	Marionette enabled
+1670230775135	Marionette	INFO	Listening on port 63350
+WebDriver BiDi listening on ws://127.0.0.1:63341
+Read port: 63350
+1670230775386	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilePXhHSi\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63341/devtools/browser/a0404b31-80a5-4ec5-bc11-8e1390c83bbb
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+1670230790128	geckodriver	INFO	Listening on 127.0.0.1:63414
+1670230793189	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "63415" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileOPUL7S"
+1670230793582	Marionette	INFO	Marionette enabled
+1670230793589	Marionette	INFO	Listening on port 63425
+Read port: 63425
+WebDriver BiDi listening on ws://127.0.0.1:63415
+1670230793727	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileOPUL7S\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:63415/devtools/browser/e11381ac-fbf2-4710-b1c7-093fe6ac8371
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1670230888293	geckodriver	INFO	Listening on 127.0.0.1:54114
+1670230891349	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "54115" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilegMfiIJ"
+1670230891680	Marionette	INFO	Marionette enabled
+1670230891685	Marionette	INFO	Listening on port 54125
+Read port: 54125
+WebDriver BiDi listening on ws://127.0.0.1:54115
+1670230891860	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilegMfiIJ\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:54115/devtools/browser/232ad573-88d1-404c-aa0f-f41d06fac20c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1670231058575	geckodriver	INFO	Listening on 127.0.0.1:57018
+1670231061611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "57019" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilehttHGB"
+1670231061934	Marionette	INFO	Marionette enabled
+1670231061939	Marionette	INFO	Listening on port 57028
+Read port: 57028
+WebDriver BiDi listening on ws://127.0.0.1:57019
+1670231062091	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilehttHGB\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:57019/devtools/browser/d9cac2e6-40f3-4308-9d06-e25b800fb7ac
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670231075460	Marionette	INFO	Stopped listening on port 57028
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670231217842	geckodriver	INFO	Listening on 127.0.0.1:58338
+1670231220883	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58339" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilexyKlq9"
+1670231221217	Marionette	INFO	Marionette enabled
+1670231221221	Marionette	INFO	Listening on port 58348
+Read port: 58348
+WebDriver BiDi listening on ws://127.0.0.1:58339
+1670231221350	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilexyKlq9\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58339/devtools/browser/95a2f3b5-fb22-418c-8be0-5e7ff430a485
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670231441121	geckodriver	INFO	Listening on 127.0.0.1:56154
+1670231444173	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "56155" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileMMRMIt"
+1670231444513	Marionette	INFO	Marionette enabled
+1670231444518	Marionette	INFO	Listening on port 56166
+Read port: 56166
+WebDriver BiDi listening on ws://127.0.0.1:56155
+1670231444678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileMMRMIt\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:56155/devtools/browser/187adf03-2e61-4cbd-a913-011bf40390d0
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670231455273	Marionette	INFO	Stopped listening on port 56166
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670231623217	geckodriver	INFO	Listening on 127.0.0.1:52128
+1670231626266	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "52129" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilejWnuOb"
+1670231626616	Marionette	INFO	Marionette enabled
+1670231626620	Marionette	INFO	Listening on port 52138
+Read port: 52138
+WebDriver BiDi listening on ws://127.0.0.1:52129
+1670231626778	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofilejWnuOb\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:52129/devtools/browser/e0468a90-0cc0-44c7-bce1-a3c600fb0149
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+1670231644290	Marionette	INFO	Stopped listening on port 52138
+console.warn: TopSitesFeed: Failed to fetch data from Contile server: NetworkError when attempting to fetch resource.
+1670231860230	geckodriver	INFO	Listening on 127.0.0.1:58894
+1670231863270	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "58895" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile237kxN"
+1670231863592	Marionette	INFO	Marionette enabled
+1670231863597	Marionette	INFO	Listening on port 58904
+WebDriver BiDi listening on ws://127.0.0.1:58895
+Read port: 58904
+1670231863896	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofile237kxN\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:58895/devtools/browser/444a527a-4ae8-417c-a019-5a8e9ac619f9
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967302/pagestyle24, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:288:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:203:10\ninspectNode@resource://devtools/client/framework/devtools.js:859:25\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967302/pagestyle24, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1618:10\n_forwardExistingResources@resource://devtools/shared/commands/resource/resource-command.js:1050:13\nwatchResources@resource://devtools/shared/commands/resource/resource-command.js:252:18\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967302/pagestyle24, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967302/pagestyle24, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967302/pagestyle24, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967302/pagestyle24, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:775:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:656:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1037:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:577:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:686:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1037, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1037))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:356:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+Handler function threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_onRequestHeader@resource://devtools/server/actors/network-monitor/network-observer.js:775:10
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:656:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+JavaScript error: resource://devtools/shared/protocol/Front/FrontClassWithSpec.js, line 28: Error: Can not send request 'cancelPickColorFromPage' because front 'inspector' is already destroyed.
+Handler function threw an exception: TypeError: httpActivity.owner is null
+Stack: _onResponseHeader@resource://devtools/server/actors/network-monitor/network-observer.js:1037:5
+_dispatchActivity@resource://devtools/server/actors/network-monitor/network-observer.js:577:14
+NetworkObserver.prototype.observeActivity<@resource://devtools/server/actors/network-monitor/network-observer.js:686:12
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 1037, column: 5
+console.error: (new TypeError("httpActivity.owner is null", "resource://devtools/server/actors/network-monitor/network-observer.js", 1037))
+Handler function _httpStopRequest threw an exception: TypeError: browsingContext.currentWindowGlobal is null
+Stack: isChannelFromSystemPrincipal@resource://devtools/server/actors/network-monitor/utils/network-utils.js:97:1
+exports.createNetworkEvent@resource://devtools/server/actors/network-monitor/utils/network-utils.js:186:33
+_createNetworkEvent@resource://devtools/server/actors/network-monitor/network-observer.js:729:32
+_httpStopRequest@resource://devtools/server/actors/network-monitor/network-observer.js:356:14
+exports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22
+Line: 97, column: 1
+console.error: (new TypeError("browsingContext.currentWindowGlobal is null", "resource://devtools/server/actors/network-monitor/utils/network-utils.js", 97))
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.error: "Unable to find target with innerWindowId:4294967302"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+1670231903006	geckodriver	INFO	Listening on 127.0.0.1:55040
+1670231906066	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "55041" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileOFJMbj"
+1670231906397	Marionette	INFO	Marionette enabled
+1670231906402	Marionette	INFO	Listening on port 55053
+Read port: 55053
+WebDriver BiDi listening on ws://127.0.0.1:55041
+1670231906559	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileOFJMbj\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:55041/devtools/browser/d34d3a32-8b16-46cf-8b73-7f1a9cfdc46e
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.error: "stylesheets: fetch failed for https://cdn.dsmcdn.com/web/master/navigation-v2.19d9001e7c38e718621225587034d5d5.css, using system principal instead."
+console.error: "stylesheets: fetch failed for https://cdn.dsmcdn.com/web/master/navigation-v2.19d9001e7c38e718621225587034d5d5.css, using system principal instead."
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967324/pagestyle23, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonReflowInSelection@resource://devtools/client/inspector/inspector.js:1618:10\n_notifyWatchers@resource://devtools/shared/commands/resource/resource-command.js:874:24\nthrottledFunction@resource://devtools/shared/throttle.js:45:21\n_onResourceAvailable@resource://devtools/shared/commands/resource/resource-command.js:719:12\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nonPacket@resource://devtools/shared/protocol/Front.js:349:13\nonPacket@resource://devtools/client/devtools-client.js:488:13\nsend/<@resource://devtools/shared/transport/local-transport.js:67:25\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\nexports.makeInfallible/<@resource://devtools/shared/ThreadSafeDevToolsUtils.js:103:22\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967324/pagestyle23, type getLayout failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:183:36\nupdateBoxModel@resource://devtools/client/inspector/boxmodel/box-model.js:223:18\nonNewSelection@resource://devtools/client/inspector/boxmodel/box-model.js:288:10\n_emit@resource://devtools/shared/event-emitter.js:242:32\nemit@resource://devtools/shared/event-emitter.js:186:18\nemit@resource://devtools/shared/event-emitter.js:330:18\nsetNodeFront@resource://devtools/client/framework/selection.js:203:10\ninspectNode@resource://devtools/client/framework/devtools.js:859:25\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967324/pagestyle23, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\nupdateBoxModel/lastRequest<@resource://devtools/client/inspector/boxmodel/box-model.js:187:44\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967324/pagestyle23, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967324/pagestyle23, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: (new Error("Connection closed, pending request to server0.conn0.windowGlobal4294967324/pagestyle23, type getApplied failed\n\nRequest stack:\nrequest@resource://devtools/shared/protocol/Front.js:300:14\ngenerateRequestMethods/</frontProto[name]@resource://devtools/shared/protocol/Front/FrontClassWithSpec.js:47:19\ngetApplied@resource://devtools/client/fronts/page-style.js:61:29\npopulate@resource://devtools/client/inspector/rules/models/element-style.js:123:8\n_populate@resource://devtools/client/inspector/rules/rules.js:1119:8\nselectElement/<@resource://devtools/client/inspector/rules/rules.js:1012:23\n", "resource://devtools/shared/protocol/Front.js", 106))
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getLayout' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Tried to send a 'getApplied' method reply on an already destroyed actor 'pagestyle'"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.error: "Unable to find target with innerWindowId:4294967324"
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+console.error: "Unable to find target with innerWindowId:4294967337"
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: (new TypeError("currentNode is null", "resource://devtools/client/inspector/shared/style-change-tracker.js", 66))
+TypeError: currentNode is null: canMutationImpactCurrentStyles@resource://devtools/client/inspector/shared/style-change-tracker.js:66:20
+onMutations@resource://devtools/client/inspector/shared/style-change-tracker.js:84:41
+_emit@resource://devtools/shared/event-emitter.js:242:32
+emit@resource://devtools/shared/event-emitter.js:186:18
+emit@resource://devtools/shared/event-emitter.js:330:18
+getMutations@resource://devtools/client/fronts/walker.js:313:10
+
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+console.error: "Unable to find target with innerWindowId:4294967350"
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+console.error: "Unable to find target with innerWindowId:4294967363"
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+JavaScript error: resource://devtools/client/shared/source-map/index.js, line 189: Error: Line numbers must be >= 1
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+console.warn: "Listener for event 'frame' did not return a promise."
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+JavaScript error: resource://gre/modules/AsyncShutdown.jsm, line 574: NotFoundError: No such JSWindowActor 'DevToolsFrame'
+1670232110397	Marionette	INFO	Stopped listening on port 55053
+1670232124555	geckodriver	INFO	Listening on 127.0.0.1:53301
+1670232127611	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "53302" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofiler1M45i"
+1670232128033	Marionette	INFO	Marionette enabled
+1670232128038	Marionette	INFO	Listening on port 53311
+Read port: 53311
+WebDriver BiDi listening on ws://127.0.0.1:53302
+1670232128171	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofiler1M45i\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:53302/devtools/browser/00b23a24-3619-4d3a-a91a-d2712c8a1699
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: this.selector is null
+1670232275524	geckodriver	INFO	Listening on 127.0.0.1:50204
+1670232278562	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50205" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileT7fp1H"
+1670232278887	Marionette	INFO	Marionette enabled
+1670232278893	Marionette	INFO	Listening on port 50215
+Read port: 50215
+WebDriver BiDi listening on ws://127.0.0.1:50205
+1670232279200	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileT7fp1H\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50205/devtools/browser/b99af518-c381-4fd0-a866-4208cf4fdcd0
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+JavaScript error: https://www.googletagmanager.com/gtm.js?id=GTM-292J, line 41: uncaught exception: [object Object]
+1670232324314	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+TimedPromise/<@chrome://remote/content/marionette/sync.sys.mjs:220:24
+TimedPromise@chrome://remote/content/marionette/sync.sys.mjs:205:10
+interaction.flushEventLoop@chrome://remote/content/marionette/interaction.sys.mjs:425:10
+webdriverClickElement@chrome://remote/content/marionette/interaction.sys.mjs:173:31
+JavaScript error: https://www.trendyol.com/ line 1 > injectedScript, line 1: ReferenceError: ttq is not defined
+1670232380974	geckodriver	INFO	Listening on 127.0.0.1:50336
+1670232384025	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "50337" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileslzEpI"
+1670232384370	Marionette	INFO	Marionette enabled
+1670232384375	Marionette	INFO	Listening on port 50347
+WebDriver BiDi listening on ws://127.0.0.1:50337
+Read port: 50347
+1670232384608	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at C:\\Users\\ozgeb\\AppData\\Local\\Temp\\rust_mozprofileslzEpI\\search.json.mozlz4", (void 0)))
+DevTools listening on ws://127.0.0.1:50337/devtools/browser/28d9c755-7b37-402b-a4e3-da2bcb78157c
+JavaScript error: resource://gre/modules/URIFixup.sys.mjs, line 304: NS_ERROR_FAILURE: Should pass a non-null uri
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.trendyol.com."
+JavaScript error: https://cdn.cookielaw.org/scripttemplates/6.30.0/otBannerSdk.js, line 7: TypeError: r is undefined

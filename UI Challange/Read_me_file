@@ -1,0 +1,8 @@
+Step-by-Step use:
+Please type E-mail and a valid password in the field in Locators.
+Which scenario do you want to observe when calling up the functions in the bottom line of the Test_Trendyol.py file
+you can change other functions to the comment line, except for that function.
+{  startPage()
+# Scenario1()
+# Scenario2()
+# Scenario3()   }
