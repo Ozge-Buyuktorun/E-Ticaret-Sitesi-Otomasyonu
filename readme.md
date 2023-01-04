@@ -1,21 +1,5 @@
 <h1 align="left"> Software Development in Test Challenge </h1>
 
-Hi,
-
-We expect you to create the test project which applies the scenarios given below and upload it to GitHub repository created for you.
-
-You can see some criteria to be used below while we're reviewing your project:
-
-- Readability
-- Naming convention
-- Code repeat
-- Paying attention to universal software standards such as OOP
-- A class structure that is ready to be extended in terms of architecture
-- Git usage
-- Assertions
-
-<h1 align="left"> API Challenge </h1>
-
 ### Scenario:
 
 You work as Software Development in Test role in our API team built recently. 
@@ -85,22 +69,7 @@ As a team, you decided to develop a scenario which controls this.
 **3-1:**
 
 <img src="./assets/tabs.png" width="900" height="100">
-
 - Tabs are clicked one by one 
 - The first components are clicked
 - It is logged the first 4 products and whether the images of these products are received
-
-**PS:** The best practice for UI automation scenarios is using parametric browsers to run the tests and checking whether the pages are loaded when switching between pages 😊 
-
-**PS:** Please include **"case is done"** in your last commit.
-
-## Follow Us!
-
-[Trendyol Tech Medium](https://medium.com/trendyol-tech)
-
-[Trendyol Open Source GitHub](https://github.com/Trendyol)
-
-[Trendyol Tech Youtube](https://www.youtube.com/channel/UCUBiayLMggBAsiYvGLzQJ5w)
-
-[Trendyol Tech Kommunity](https://kommunity.com/@trendyol)
 
